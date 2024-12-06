@@ -1,0 +1,60 @@
+name: weather_api
+description: "A new Flutter project."
+
+publish_to: 'none' # Remove this line if you wish to publish to pub.dev
+
+version: 1.0.0+1
+
+environment:
+  sdk: ^3.5.4
+
+dependencies:
+  flutter:
+    sdk: flutter
+
+  cupertino_icons: ^1.0.8
+  flutter_bloc: ^8.1.6
+  geolocator: ^13.0.2
+  weather: ^3.1.1
+  intl: ^0.20.1
+  equatable: ^2.0.7
+  http: ^1.2.2
+
+dev_dependencies:
+  flutter_test:
+    sdk: flutter
+
+  flutter_lints: ^4.0.0
+
+flutter:
+
+  uses-material-design: true
+
+  assets:
+    - assets/images/
+  #   - images/a_dot_ham.jpeg
+
+  fonts:
+    - family: IBM_Plex_Sans
+      fonts:
+        - asset: assets/fonts/IBM_Plex_Sans/IBMPlexSans-SemiBoldItalic.ttf
+          style: italic
+
+    - family: Poppins
+      fonts:
+        - asset: assets/fonts/Poppins/Poppins-Regular.ttf
+          weight: 500
+
+    - family: Roboto
+      fonts:
+        - asset: assets/fonts/Roboto/Roboto-Black.ttf
+          weight: 800
+
+  #       - asset: fonts/Schyler-Italic.ttf
+  #         style: italic
+  #   - family: Trajan Pro
+  #     fonts:
+  #       - asset: fonts/TrajanPro.ttf
+  #       - asset: fonts/TrajanPro_Bold.ttf
+  #         weight: 700
+
