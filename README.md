@@ -72,3 +72,12 @@ A sleek, modern weather application built with Flutter that provides real-time w
 ---
 
 ## 👤 Author
+
+---
+
+<div align="center">
+
+### Built with ❤️ using Flutter
+⭐ Star this repo if you find it helpful!
+
+</div
