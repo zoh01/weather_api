@@ -1,4 +1,4 @@
-# ⛅ Weather API
+# ⛅ Weather Forecast
 
 <div align="center">
 
