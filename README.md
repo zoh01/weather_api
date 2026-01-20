@@ -85,6 +85,11 @@ GitHub: [https://github.com/zoh01](https://github.com/zoh01)
 
 ---
 
+## 📄 License
+Distributed under the MIT License. See LICENSE file for more information.
+
+---
+
 <div align="center">
 
 ### Built with ❤️ using Flutter
