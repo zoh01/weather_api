@@ -72,12 +72,16 @@ A sleek, modern weather application built with Flutter that provides real-time w
 ---
 
 ## 👤 Author
-### Adebayo Wariz 
+**Adebayo Wariz**  
 
-## 📧 Contact
+### 📧 Contact
 Whatsapp: +234 702 513 6608
 
 Email: adebayozoh@gmail.com
+
+LinkedIn: https://www.linkedin.com/in/adebayo-wariz-a8ab9a310/
+
+GitHub: [https://github.com/zoh01](https://github.com/zoh01)
 
 ---
 
