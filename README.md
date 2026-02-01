@@ -32,6 +32,7 @@ A sleek, modern weather application built with Flutter that provides real-time w
 
 ### 📊 Detailed Metrics
 - **Temperature** - Current, feels-like, min/max
+- **Wind** - Speed and direction
 
 ---
 
