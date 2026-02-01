@@ -25,6 +25,7 @@ A sleek, modern weather application built with Flutter that provides real-time w
 ## ✨ Features
 ### 🌤️ Weather Information
 - **Current Weather** - Real-time temperature, humidity, and conditions
+- **5-Day Forecast** - Extended weather predictions
 
 ---
 
