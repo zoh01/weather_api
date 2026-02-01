@@ -44,6 +44,7 @@ A sleek, modern weather application built with Flutter that provides real-time w
 - **Weather Icons** - Animated weather conditions
 - **Dark Mode** - Easy on the eyes
 - **Auto Location** - GPS-based current location
+-  **Unit Toggle** - Switch between Celsius/Fahrenheit
 
 ---
 
