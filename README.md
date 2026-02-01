@@ -35,6 +35,7 @@ A sleek, modern weather application built with Flutter that provides real-time w
 - **Wind** - Speed and direction
 - **Humidity** - Moisture levels
 - **Pressure** - Atmospheric pressure
+- **Visibility** - Distance you can see
 
 ---
 
