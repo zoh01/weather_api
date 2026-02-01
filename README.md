@@ -41,6 +41,7 @@ A sleek, modern weather application built with Flutter that provides real-time w
 
 ### 🎨 User Experience
 - **Beautiful UI** - Clean, modern design
+- **Weather Icons** - Animated weather conditions
 
 ---
 
