@@ -37,6 +37,7 @@ A sleek, modern weather application built with Flutter that provides real-time w
 - **Pressure** - Atmospheric pressure
 - **Visibility** - Distance you can see
 - **UV Index** - Sun exposure levels
+- **Sunrise/Sunset** - Solar times
 
 ---
 
