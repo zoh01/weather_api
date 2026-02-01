@@ -30,6 +30,8 @@ A sleek, modern weather application built with Flutter that provides real-time w
 - **Multiple Locations** - Track weather in multiple cities
 - **Search** - Find weather for any city worldwide
 
+### 📊 Detailed Metrics
+
 ---
 
 ## 🛠️ Tech Stack
