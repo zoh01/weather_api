@@ -86,6 +86,20 @@ A sleek, modern weather application built with Flutter that provides real-time w
 ---
 
 ### Setup
+    # 1. Clone repository
+    git clone https://github.com/zoh01/weather_apis.git
+    cd weather_apis
+    
+    # 2. Install dependencies
+    flutter pub get
+    
+    # 3. Configure API Key
+    # Open api.env file and add your API key:
+    echo "WEATHER_API_KEY=your_api_key_here" > api.env
+    
+    # 4. Run the app
+    flutter run
+
 
 ---
 
