@@ -102,6 +102,8 @@ A sleek, modern weather application built with Flutter that provides real-time w
     # 4. Run the app
     flutter run
 
+ 1. Visit [OpenWeatherMap](https://openweathermap.org/api)
+
 
 ---
 
