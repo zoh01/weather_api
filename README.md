@@ -170,6 +170,7 @@ Edit `lib/constants/app_colors.dart`:
     const Color secondaryColor = Color(0xFF764ba2);
 
 ### Add More Weather Providers
+Implement the `WeatherService` interface:
 
 ---
 
