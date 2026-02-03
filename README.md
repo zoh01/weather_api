@@ -186,6 +186,8 @@ Create `api.env` in root:
     WEATHER_API_KEY=your_openweather_api_key
     WEATHER_BASE_URL=https://api.openweathermap.org/data/2.5
 
+### App Permissions
+
 ---
 
 ## 🐛 Troubleshooting
