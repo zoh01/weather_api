@@ -187,6 +187,7 @@ Create `api.env` in root:
     WEATHER_BASE_URL=https://api.openweathermap.org/data/2.5
 
 ### App Permissions
+Android (`android/app/src/main/AndroidManifest.xml`):
 
 ---
 
