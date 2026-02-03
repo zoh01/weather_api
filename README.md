@@ -164,6 +164,7 @@ This app uses the **OpenWeatherMap API:**
 
 ## 🎨 Customization
 ### Change Theme Colors
+Edit `lib/constants/app_colors.dart`:
 
 ---
 
