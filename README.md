@@ -163,6 +163,7 @@ This app uses the **OpenWeatherMap API:**
 ---
 
 ## 🎨 Customization
+### Change Theme Colors
 
 ---
 
