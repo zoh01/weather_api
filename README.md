@@ -222,6 +222,7 @@ iOS (`ios/Runner/Info.plist`):
 - City search
 - GPS location
 - Weather alerts
+- Hourly forecast graphs
 
 ---
 
