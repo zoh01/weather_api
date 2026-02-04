@@ -224,6 +224,7 @@ iOS (`ios/Runner/Info.plist`):
 - Weather alerts
 - Hourly forecast graphs
 - Weather widgets
+- Multiple language support
 
 ---
 
