@@ -221,6 +221,7 @@ iOS (`ios/Runner/Info.plist`):
 - 5-day forecast
 - City search
 - GPS location
+- Weather alerts
 
 ---
 
