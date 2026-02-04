@@ -208,6 +208,9 @@ iOS (`ios/Runner/Info.plist`):
 
 ### Location Not Working
 
+    Error: Location permission denied
+    Solution: Grant location permissions in app settings
+
 ---
 
 ## 🗺️ Roadmap
