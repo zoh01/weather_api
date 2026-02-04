@@ -220,6 +220,7 @@ iOS (`ios/Runner/Info.plist`):
 - Current weather display
 - 5-day forecast
 - City search
+- GPS location
 
 ---
 
