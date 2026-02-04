@@ -217,6 +217,7 @@ iOS (`ios/Runner/Info.plist`):
 ---
 
 ## 🗺️ Roadmap
+- Current weather display
 
 ---
 
