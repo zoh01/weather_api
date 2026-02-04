@@ -218,6 +218,7 @@ iOS (`ios/Runner/Info.plist`):
 
 ## 🗺️ Roadmap
 - Current weather display
+- 5-day forecast
 
 ---
 
