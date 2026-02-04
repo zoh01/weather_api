@@ -207,11 +207,12 @@ iOS (`ios/Runner/Info.plist`):
     Solution: Check your API key in api.env file
 
 ### Location Not Working
-
     Error: Location permission denied
     Solution: Grant location permissions in app settings
 
 ### No Internet Connection
+    Error: SocketException
+    Solution: Check your internet connection
 
 ---
 
