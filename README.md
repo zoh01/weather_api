@@ -229,6 +229,7 @@ iOS (`ios/Runner/Info.plist`):
 ---
 
 ## 🤝 Contributing
+Contributions welcome!
 
 ---
 
