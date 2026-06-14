@@ -1,4 +1,4 @@
-# ⛅ Weather Forecast
+ty# ⛅ Weather Forecast
 
 <div align="center">
 
@@ -90,10 +90,7 @@ A sleek, modern weather application built with Flutter that provides real-time w
 
 ---
 
-### Setup
-    # 1. Clone repository
-    git clone https://github.com/zoh01/weather_apis.git
-    cd weather_apis
+
     
     # 2. Install dependencies
     flutter pub get
