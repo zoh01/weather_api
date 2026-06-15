@@ -84,7 +84,6 @@ A sleek, modern weather application built with Flutter that provides real-time w
 ## 🚀 Installation
 ### Prerequisites
 - Flutter SDK (3.0+)
-- OpenWeatherMap API Key [Get Free API Key](https://openweathermap.org/api)
 
 ---
 
