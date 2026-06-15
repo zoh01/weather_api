@@ -27,7 +27,6 @@ A sleek, modern weather application built with Flutter that provides real-time w
 - **Current Weather** - Real-time temperature, humidity, and conditions
 - **Hourly Updates** - Hour-by-hour weather breakdown
 - **Multiple Locations** - Track weather in multiple cities
-- **Search** - Find weather for any city worldwide
 
 ### 📊 Detailed Metrics
 - **Temperature** - Current, feels-like, min/max
