@@ -140,7 +140,6 @@ This app uses the **OpenWeatherMap API:**
         Parameters:
           - q: City name
           - appid: Your API key
-          - units: metric/imperial
         
     // 5-Day Forecast
     GET https://api.openweathermap.org/data/2.5/forecast
