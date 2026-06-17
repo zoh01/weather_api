@@ -253,11 +253,3 @@ GitHub: [https://github.com/zoh01](https://github.com/zoh01)
 ---
 
 ## 📄 License
-
-
-
-
-      MIT License
-      
-      Copyright (c) 2025 [Adebayo Wariz]
-
