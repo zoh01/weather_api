@@ -37,7 +37,7 @@ Beautiful weather forecasts at your fingertips.
 
 - **Sunrise/Sunset** - Solar timesi
 
-### 🎨 User Experience
+
 - **Beautiful UI** - Clean, modern design
 - **Weather Icons** - Animated weather conditions
 - **Dark Mode** - Easy on the eyes
