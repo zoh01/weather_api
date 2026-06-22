@@ -35,7 +35,6 @@ Beautiful weather forecasts at your fingertips.
 - **Pressure** - Atmospheric pressure
 - **Visibility** - Distance you can see
 
-- **Sunrise/Sunset** - Solar timesi
 
 
 - **Beautiful UI** - Clean, modern design
