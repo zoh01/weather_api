@@ -32,7 +32,6 @@ Beautiful weather forecasts at your fingertips.
 - **Temperature** - Current, feels-like, min/max
 - **Wind** - Speed and direction
 - **Humidity** - Moisture levels
-- **Pressure** - Atmospheric pressure
 - **Visibility** - Distance you can see
 
 
