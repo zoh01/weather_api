@@ -20,7 +20,6 @@
 ### 🌤️ Weather Information
 - **Current Weather** - Real-time temperature, humidity, and conditions
 - **Hourly Updates** - Hour-by-hour weather breakdown
-- **Multiple Locations** - Track weather in multiple cities
 
 ### 📊 Detailed Metrics
 - **Temperature** - Current, feels-like, min/max
