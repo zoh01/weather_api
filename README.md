@@ -3,7 +3,6 @@
 ![OpenWeather](https://img.shields.io/badge/OpenWeather-EB6E4B?style=for-the-badge&logo=weather&logoColor=white)
 
 
-[Features](#-features) • [Installation](#-installation) • [Usage](#-usage)
 
 ![Star](https://img.shields.io/github/stars/zoh01/weather_apis?style=social)
 ![Social](https://img.shields.io/github/forks/zoh01/weather_apis?style=social)
