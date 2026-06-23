@@ -24,8 +24,6 @@
 ### 📊 Detailed Metrics
 - **Temperature** - Current, feels-like, min/max
 - **Wind** - Speed and direction
-- **Humidity** - Moisture levels
-- **Visibility** - Distance you can see
 
 
 
