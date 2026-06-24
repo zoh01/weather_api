@@ -33,10 +33,6 @@
 
 ---
 
-## 🛠️ Tech Stack
-    # Core
-    flutter: ^3.0.0
-    dart: ^3.0.0
     
     # State Management
     provider: ^latest              # State management
