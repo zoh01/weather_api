@@ -28,7 +28,7 @@
 
 - **Beautiful UI** - Clean, modern design
 - **Weather Icons** - Animated weather conditions
-- **Dark Mode** - Easy on the eyes
+
 
 
 ---
