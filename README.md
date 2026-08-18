@@ -201,8 +201,4 @@ Contributions welcome!
     # Commit your changes
     git commit -m 'Add AmazingFeature'
     
-    # Push to the branch
-    
-
-
 
