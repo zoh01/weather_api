@@ -192,6 +192,3 @@ iOS (`ios/Runner/Info.plist`):
 ## 🤝 Contributing
 Contributions welcome!
 
-    # Fork the repo
-    # Create your feature branch
-  
