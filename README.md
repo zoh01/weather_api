@@ -186,4 +186,3 @@ iOS (`ios/Runner/Info.plist`):
 - GPS location
 - Weather alerts
 - Hourly forecast graphs
-- Weather widgets
