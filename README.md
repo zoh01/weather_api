@@ -197,6 +197,3 @@ Contributions welcome!
     # Fork the repo
     # Create your feature branch
     git checkout -b feature/AmazingFeature
-    
-    # Commit your changes
-
