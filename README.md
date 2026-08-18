@@ -199,6 +199,4 @@ Contributions welcome!
     git checkout -b feature/AmazingFeature
     
     # Commit your changes
-    git commit -m 'Add AmazingFeature'
-    
 
