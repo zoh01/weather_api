@@ -202,7 +202,6 @@ Contributions welcome!
     git commit -m 'Add AmazingFeature'
     
     # Push to the branch
-    git push origin feature/AmazingFeature
     
 
 
