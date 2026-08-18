@@ -189,8 +189,6 @@ iOS (`ios/Runner/Info.plist`):
 - Weather widgets
 - Multiple language support
 
----
-
 ## 🤝 Contributing
 Contributions welcome!
 
