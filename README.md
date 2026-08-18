@@ -188,7 +188,3 @@ iOS (`ios/Runner/Info.plist`):
 - Hourly forecast graphs
 - Weather widgets
 - Multiple language support
-
-## 🤝 Contributing
-Contributions welcome!
-
