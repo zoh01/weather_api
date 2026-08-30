@@ -66,8 +66,6 @@
 ---
 
 
-
-    
     # 3. Configure API Key
     # Open api.env file and add your API key:
     echo "WEATHER_API_KEY=your_api_key_here" > api.env
