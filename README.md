@@ -27,10 +27,7 @@
 - **Beautiful UI** - Clean, modern design
 - **Weather Icons** - Animated weather conditions
 
-
-
 ---
-
     
     # State Management
     provider: ^latest              # State management
@@ -42,9 +39,6 @@
     # Location
     geolocator: ^latest            # GPS location
     geocoding: ^latest             # Reverse geocoding
-    
-    # UI
-    google_fonts: ^latest          # Custom fonts
     
 
 ### Get Your API Key
