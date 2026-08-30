@@ -1,8 +1,6 @@
 ![Flutter](https://img.shields.io/badge/Flutter-02569B?style=for-the-badge&logo=flutter&logoColor=white)
 
 
-
-
 ![Star](https://img.shields.io/github/stars/zoh01/weather_apis?style=social)
 ![Social](https://img.shields.io/github/forks/zoh01/weather_apis?style=social)
 
