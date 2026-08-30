@@ -45,8 +45,6 @@
     
     # UI
     google_fonts: ^latest          # Custom fonts
-    intl: ^latest                  # Date formatting
-    lottie: ^latest               # Animations
     
 
 ### Get Your API Key
