@@ -52,9 +52,6 @@
 ---
 
 
-    # 3. Configure API Key
-    # Open api.env file and add your API key:
-
 
 ---
 
