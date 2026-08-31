@@ -79,10 +79,6 @@
     │   ├── home_screen.dart
     │   ├── search_screen.dart
     │   └── forecast_screen.dart
-    ├── widgets/             # Reusable widgets
-    │   ├── weather_card.dart
-    │   └── forecast_item.dart
-    └── main.dart
 
 ---
 
