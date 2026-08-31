@@ -15,7 +15,6 @@
 
 ## ✨ Features
 ### 🌤️ Weather Information
-- **Current Weather** - Real-time temperature, humidity, and conditions
 
 
 ### 📊 Detailed Metrics
