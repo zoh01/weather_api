@@ -34,10 +34,7 @@
     # Networking
     http: ^latest                  # HTTP requests
     dio: ^latest                   # Advanced HTTP client
-    
-    # Location
-    geolocator: ^latest            # GPS location
-    geocoding: ^latest             # Reverse geocoding
+
     
 
 ### Get Your API Key
