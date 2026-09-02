@@ -36,10 +36,6 @@
 
     
 
-### Get Your API Key
-1. Visit [OpenWeatherMap](https://openweathermap.org/api)
-
-
 ---
 
 ## 🏗️ Project Structure
