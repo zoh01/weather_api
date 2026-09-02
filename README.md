@@ -24,8 +24,7 @@
 
 
 - **Beautiful UI** - Clean, modern design
-- **Weather Icons** - Animated weather conditions
-
+- 
 ---
     
     # State Management
