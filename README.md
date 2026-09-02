@@ -41,10 +41,6 @@
 
 
 ---
-
-## 🚀 Installation
-### Prerequisites
-
 ---
 
 ## 💡 Usage
