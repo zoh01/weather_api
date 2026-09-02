@@ -14,7 +14,6 @@
 ---
 
 ## ✨ Features
-### 🌤️ Weather Information
 
 
 ### 📊 Detailed Metrics
