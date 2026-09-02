@@ -43,8 +43,6 @@
 ---
 ---
 
-## 💡 Usage
-### Search for a City
 
 ---
 
