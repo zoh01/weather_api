@@ -36,8 +36,6 @@
 ---
 
 ## 🏗️ Project Structure
-    lib/
-    ├── models/              # Data models
     │   ├── weather.dart
     │   └── forecast.dart
     ├── services/            # API & location services
