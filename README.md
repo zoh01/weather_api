@@ -25,9 +25,7 @@
 - **Beautiful UI** - Clean, modern design
 - 
 ---
-    
-    # State Management
-    provider: ^latest              # State management
+
     
     # Networking
     http: ^latest                  # HTTP requests
