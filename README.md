@@ -65,8 +65,6 @@ This app uses the **OpenWeatherMap API:**
           - q: City name
           - appid: Your API key
         
-    // 5-Day Forecast
-    GET https://api.openweathermap.org/data/2.5/forecast
     Parameters:
       - q: City name
       - appid: Your API key
