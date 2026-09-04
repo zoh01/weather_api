@@ -61,8 +61,6 @@
 ## 🌐 API Reference
 This app uses the **OpenWeatherMap API:**
 
-    // Current Weather
-        GET https://api.openweathermap.org/data/2.5/weather
         Parameters:
           - q: City name
           - appid: Your API key
