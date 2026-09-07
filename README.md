@@ -21,10 +21,7 @@
 
 
 - **Beautiful UI** - Clean, modern design
-- 
----
-
-    
+  
 
 ---
 
