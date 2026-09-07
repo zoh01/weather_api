@@ -23,7 +23,6 @@
 - **Beautiful UI** - Clean, modern design
 - 
 ---
-
     
     # Networking
     http: ^latest                  # HTTP requests
