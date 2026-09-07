@@ -23,10 +23,6 @@
 - **Beautiful UI** - Clean, modern design
 - 
 ---
-    
-    # Networking
-    http: ^latest                  # HTTP requests
-    dio: ^latest                   # Advanced HTTP client
 
     
 
