@@ -15,8 +15,6 @@
 ## ✨ Features
 
 
-### 📊 Detailed Metrics
-
   
 
 ---
