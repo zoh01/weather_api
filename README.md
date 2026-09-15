@@ -59,8 +59,6 @@ Edit `lib/constants/app_colors.dart`:
 ### Add More Weather Providers
 Implement the `WeatherService` interface:
 
-    }
-
 ---
 
 ## 🔧 Configuration
