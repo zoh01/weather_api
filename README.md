@@ -75,8 +75,6 @@ Android (`android/app/src/main/AndroidManifest.xml`):
 
 iOS (`ios/Runner/Info.plist`):
 
-    <key>NSLocationWhenInUseUsageDescription</key>
-
 ---
 
 ## 🐛 Troubleshooting
