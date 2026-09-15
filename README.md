@@ -89,10 +89,6 @@ iOS (`ios/Runner/Info.plist`):
     Error: Location permission denied
     Solution: Grant location permissions in app settings
 
-### No Internet Connection
-    Error: SocketException
-    Solution: Check your internet connection
-
 ---
 
 ## 🗺️ Roadmap
