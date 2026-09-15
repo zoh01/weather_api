@@ -78,7 +78,6 @@ Android (`android/app/src/main/AndroidManifest.xml`):
 iOS (`ios/Runner/Info.plist`):
 
     <key>NSLocationWhenInUseUsageDescription</key>
-    <string>We need your location to show local weather</string>
 
 ---
 
