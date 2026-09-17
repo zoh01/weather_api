@@ -43,9 +43,6 @@
           - q: City name
           - appid: Your API key
         
-    Parameters:
-      - q: City name
-      - appid: Your API key
       - units: metric/imperial
 
 ---
