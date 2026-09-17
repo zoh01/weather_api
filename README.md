@@ -38,8 +38,6 @@
 
 ---
 
-## 🌐 API Reference
-This app uses the **OpenWeatherMap API:**
 
         Parameters:
           - q: City name
